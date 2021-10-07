@@ -1,0 +1,5 @@
+mecab-python3==0.996.5
+oseti==0.2
+pysen[lint]==0.9.1
+responder==2.0.5
+typesystem==0.2.5
